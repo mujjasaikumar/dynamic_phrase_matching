@@ -30,12 +30,18 @@ This Python script extracts phrases and sentences from an Excel file (.xlsx), th
 ## Dependencies
 
 - Python 3.x
-- openpyxl
+- openpyxl (if using Excel file)
 
 ## Functionality
 
+### Approach 1: Excel File
 - The script loads phrases and sentences from the provided Excel file.
 - It matches each phrase in each sentence, recording the start and end indices along with the phrase.
+- The results are saved in a JSON file.
+
+### Approach 2: Text Files
+- Alternatively, the script can read phrases from `phrases.txt` and sentences from `sentences.txt`.
+- It matches each sentence with all phrases, recording the start and end indices along with the phrase.
 - The results are saved in a JSON file.
 
 ## Optimizations
