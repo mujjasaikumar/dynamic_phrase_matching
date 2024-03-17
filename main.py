@@ -1,5 +1,4 @@
 
-# This code is to fetch all the required data from .xlsx file
 import openpyxl
 import json
 
