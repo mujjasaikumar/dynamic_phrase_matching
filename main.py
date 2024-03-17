@@ -32,7 +32,7 @@ def main():
     phrases = [row[0] for row in rows if row[0] is not None]  # Phrases are in the first column
     sentences = [row[1] for row in rows]  # Sentences are in the second column
 
-    # # If phrases are in phrases.txt file and sentences are in sentences.txt file, uncomment the following code and run.
+    # # If phrases are given in phrases.txt file and sentences are given in sentences.txt file, uncomment the following code and run.
     # # Read sentences from sentences.txt
     # with open("sentences.txt", "r") as sentences_file:
     #     sentences = [line.strip() for line in sentences_file if line.strip()]
