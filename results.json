@@ -1,0 +1,1514 @@
+[
+    {
+        "text": "can you get back on last rate",
+        "start": 20,
+        "end": 29,
+        "value": "last rate"
+    },
+    {
+        "text": "what is your final price",
+        "start": 13,
+        "end": 24,
+        "value": "final price"
+    },
+    {
+        "text": "tell me best rate",
+        "start": 8,
+        "end": 17,
+        "value": "best rate"
+    },
+    {
+        "text": "can you check and get back with best price",
+        "start": 32,
+        "end": 42,
+        "value": "best price"
+    },
+    {
+        "text": "can you get back on discount",
+        "start": 20,
+        "end": 28,
+        "value": "discount"
+    },
+    {
+        "text": "offer me best offer",
+        "start": 9,
+        "end": 19,
+        "value": "best offer"
+    },
+    {
+        "text": "whom should I talk to for best rate",
+        "start": 26,
+        "end": 35,
+        "value": "best rate"
+    },
+    {
+        "text": "what is best price",
+        "start": 8,
+        "end": 18,
+        "value": "best price"
+    },
+    {
+        "text": "make your best offer",
+        "start": 10,
+        "end": 20,
+        "value": "best offer"
+    },
+    {
+        "text": "who can give me max discount",
+        "start": 20,
+        "end": 28,
+        "value": "discount"
+    },
+    {
+        "text": "who can give me max discount",
+        "start": 16,
+        "end": 28,
+        "value": "max discount"
+    },
+    {
+        "text": "offer me max discount",
+        "start": 13,
+        "end": 21,
+        "value": "discount"
+    },
+    {
+        "text": "offer me max discount",
+        "start": 9,
+        "end": 21,
+        "value": "max discount"
+    },
+    {
+        "text": "make it last rate",
+        "start": 8,
+        "end": 17,
+        "value": "last rate"
+    },
+    {
+        "text": "how do I get maximum discount",
+        "start": 21,
+        "end": 29,
+        "value": "discount"
+    },
+    {
+        "text": "how do I get maximum discount",
+        "start": 13,
+        "end": 29,
+        "value": "maximum discount"
+    },
+    {
+        "text": "let's talk final price",
+        "start": 11,
+        "end": 22,
+        "value": "final price"
+    },
+    {
+        "text": "let's talk discount",
+        "start": 11,
+        "end": 19,
+        "value": "discount"
+    },
+    {
+        "text": "how do I get best price",
+        "start": 13,
+        "end": 23,
+        "value": "best price"
+    },
+    {
+        "text": "make it best rate",
+        "start": 8,
+        "end": 17,
+        "value": "best rate"
+    },
+    {
+        "text": "can you check and get back with maximum discount",
+        "start": 40,
+        "end": 48,
+        "value": "discount"
+    },
+    {
+        "text": "can you check and get back with maximum discount",
+        "start": 32,
+        "end": 48,
+        "value": "maximum discount"
+    },
+    {
+        "text": "whom should I talk to for final offer",
+        "start": 26,
+        "end": 37,
+        "value": "final offer"
+    },
+    {
+        "text": "tell me maximum discount",
+        "start": 16,
+        "end": 24,
+        "value": "discount"
+    },
+    {
+        "text": "tell me maximum discount",
+        "start": 8,
+        "end": 24,
+        "value": "maximum discount"
+    },
+    {
+        "text": "what is your best offer",
+        "start": 13,
+        "end": 23,
+        "value": "best offer"
+    },
+    {
+        "text": "make your final price",
+        "start": 10,
+        "end": 21,
+        "value": "final price"
+    },
+    {
+        "text": "propose me last price",
+        "start": 11,
+        "end": 21,
+        "value": "last price"
+    },
+    {
+        "text": "can you ask your boss for last rate",
+        "start": 26,
+        "end": 35,
+        "value": "last rate"
+    },
+    {
+        "text": "Is it best price",
+        "start": 6,
+        "end": 16,
+        "value": "best price"
+    },
+    {
+        "text": "what is best prices",
+        "start": 8,
+        "end": 18,
+        "value": "best price"
+    },
+    {
+        "text": "what is best prices",
+        "start": 8,
+        "end": 19,
+        "value": "best prices"
+    },
+    {
+        "text": "make your best prices",
+        "start": 10,
+        "end": 20,
+        "value": "best price"
+    },
+    {
+        "text": "make your best prices",
+        "start": 10,
+        "end": 21,
+        "value": "best prices"
+    },
+    {
+        "text": "Is it last price",
+        "start": 6,
+        "end": 16,
+        "value": "last price"
+    },
+    {
+        "text": "make your best price",
+        "start": 10,
+        "end": 20,
+        "value": "best price"
+    },
+    {
+        "text": "who can give me last rate",
+        "start": 16,
+        "end": 25,
+        "value": "last rate"
+    },
+    {
+        "text": "tell me best prices",
+        "start": 8,
+        "end": 18,
+        "value": "best price"
+    },
+    {
+        "text": "tell me best prices",
+        "start": 8,
+        "end": 19,
+        "value": "best prices"
+    },
+    {
+        "text": "tell your best prices",
+        "start": 10,
+        "end": 20,
+        "value": "best price"
+    },
+    {
+        "text": "tell your best prices",
+        "start": 10,
+        "end": 21,
+        "value": "best prices"
+    },
+    {
+        "text": "tell your final offer",
+        "start": 10,
+        "end": 21,
+        "value": "final offer"
+    },
+    {
+        "text": "make it final offer",
+        "start": 8,
+        "end": 19,
+        "value": "final offer"
+    },
+    {
+        "text": "what is your best prices",
+        "start": 13,
+        "end": 23,
+        "value": "best price"
+    },
+    {
+        "text": "what is your best prices",
+        "start": 13,
+        "end": 24,
+        "value": "best prices"
+    },
+    {
+        "text": "make your best rate",
+        "start": 10,
+        "end": 19,
+        "value": "best rate"
+    },
+    {
+        "text": "let's talk maximum discount",
+        "start": 19,
+        "end": 27,
+        "value": "discount"
+    },
+    {
+        "text": "let's talk maximum discount",
+        "start": 11,
+        "end": 27,
+        "value": "maximum discount"
+    },
+    {
+        "text": "offer us maximum discount",
+        "start": 17,
+        "end": 25,
+        "value": "discount"
+    },
+    {
+        "text": "offer us maximum discount",
+        "start": 9,
+        "end": 25,
+        "value": "maximum discount"
+    },
+    {
+        "text": "make it best price",
+        "start": 8,
+        "end": 18,
+        "value": "best price"
+    },
+    {
+        "text": "can you get back on final price",
+        "start": 20,
+        "end": 31,
+        "value": "final price"
+    },
+    {
+        "text": "make your last rate",
+        "start": 10,
+        "end": 19,
+        "value": "last rate"
+    },
+    {
+        "text": "can you ask your boss for best offer",
+        "start": 26,
+        "end": 36,
+        "value": "best offer"
+    },
+    {
+        "text": "can you check and get back with discount",
+        "start": 32,
+        "end": 40,
+        "value": "discount"
+    },
+    {
+        "text": "propose us last price",
+        "start": 11,
+        "end": 21,
+        "value": "last price"
+    },
+    {
+        "text": "who can give me best prices",
+        "start": 16,
+        "end": 26,
+        "value": "best price"
+    },
+    {
+        "text": "who can give me best prices",
+        "start": 16,
+        "end": 27,
+        "value": "best prices"
+    },
+    {
+        "text": "whom should I talk to for last price",
+        "start": 26,
+        "end": 36,
+        "value": "last price"
+    },
+    {
+        "text": "let's talk last rate",
+        "start": 11,
+        "end": 20,
+        "value": "last rate"
+    },
+    {
+        "text": "tell your max discount",
+        "start": 14,
+        "end": 22,
+        "value": "discount"
+    },
+    {
+        "text": "tell your max discount",
+        "start": 10,
+        "end": 22,
+        "value": "max discount"
+    },
+    {
+        "text": "offer us final price",
+        "start": 9,
+        "end": 20,
+        "value": "final price"
+    },
+    {
+        "text": "tell your best offer",
+        "start": 10,
+        "end": 20,
+        "value": "best offer"
+    },
+    {
+        "text": "propose me final offer",
+        "start": 11,
+        "end": 22,
+        "value": "final offer"
+    },
+    {
+        "text": "tell me final offer",
+        "start": 8,
+        "end": 19,
+        "value": "final offer"
+    },
+    {
+        "text": "offer us last rate",
+        "start": 9,
+        "end": 18,
+        "value": "last rate"
+    },
+    {
+        "text": "make it max discount",
+        "start": 12,
+        "end": 20,
+        "value": "discount"
+    },
+    {
+        "text": "make it max discount",
+        "start": 8,
+        "end": 20,
+        "value": "max discount"
+    },
+    {
+        "text": "make it final price",
+        "start": 8,
+        "end": 19,
+        "value": "final price"
+    },
+    {
+        "text": "what is your last rate",
+        "start": 13,
+        "end": 22,
+        "value": "last rate"
+    },
+    {
+        "text": "can you ask your boss for last price",
+        "start": 26,
+        "end": 36,
+        "value": "last price"
+    },
+    {
+        "text": "propose us discount",
+        "start": 11,
+        "end": 19,
+        "value": "discount"
+    },
+    {
+        "text": "Is it max discount",
+        "start": 10,
+        "end": 18,
+        "value": "discount"
+    },
+    {
+        "text": "Is it max discount",
+        "start": 6,
+        "end": 18,
+        "value": "max discount"
+    },
+    {
+        "text": "tell your last price",
+        "start": 10,
+        "end": 20,
+        "value": "last price"
+    },
+    {
+        "text": "who can give me final price",
+        "start": 16,
+        "end": 27,
+        "value": "final price"
+    },
+    {
+        "text": "tell your maximum discount",
+        "start": 18,
+        "end": 26,
+        "value": "discount"
+    },
+    {
+        "text": "tell your maximum discount",
+        "start": 10,
+        "end": 26,
+        "value": "maximum discount"
+    },
+    {
+        "text": "what is best offer",
+        "start": 8,
+        "end": 18,
+        "value": "best offer"
+    },
+    {
+        "text": "how do I get final price",
+        "start": 13,
+        "end": 24,
+        "value": "final price"
+    },
+    {
+        "text": "what is your max discount",
+        "start": 17,
+        "end": 25,
+        "value": "discount"
+    },
+    {
+        "text": "what is your max discount",
+        "start": 13,
+        "end": 25,
+        "value": "max discount"
+    },
+    {
+        "text": "can you ask your boss for final offer",
+        "start": 26,
+        "end": 37,
+        "value": "final offer"
+    },
+    {
+        "text": "what is last price",
+        "start": 8,
+        "end": 18,
+        "value": "last price"
+    },
+    {
+        "text": "let's talk best offer",
+        "start": 11,
+        "end": 21,
+        "value": "best offer"
+    },
+    {
+        "text": "what is final price",
+        "start": 8,
+        "end": 19,
+        "value": "final price"
+    },
+    {
+        "text": "tell your best rate",
+        "start": 10,
+        "end": 19,
+        "value": "best rate"
+    },
+    {
+        "text": "tell me last price",
+        "start": 8,
+        "end": 18,
+        "value": "last price"
+    },
+    {
+        "text": "can you get back on max discount",
+        "start": 24,
+        "end": 32,
+        "value": "discount"
+    },
+    {
+        "text": "can you get back on max discount",
+        "start": 20,
+        "end": 32,
+        "value": "max discount"
+    },
+    {
+        "text": "offer me best prices",
+        "start": 9,
+        "end": 19,
+        "value": "best price"
+    },
+    {
+        "text": "offer me best prices",
+        "start": 9,
+        "end": 20,
+        "value": "best prices"
+    },
+    {
+        "text": "offer me final offer",
+        "start": 9,
+        "end": 20,
+        "value": "final offer"
+    },
+    {
+        "text": "make your discount",
+        "start": 10,
+        "end": 18,
+        "value": "discount"
+    },
+    {
+        "text": "Is it final price",
+        "start": 6,
+        "end": 17,
+        "value": "final price"
+    },
+    {
+        "text": "offer us max discount",
+        "start": 13,
+        "end": 21,
+        "value": "discount"
+    },
+    {
+        "text": "offer us max discount",
+        "start": 9,
+        "end": 21,
+        "value": "max discount"
+    },
+    {
+        "text": "offer me best rate",
+        "start": 9,
+        "end": 18,
+        "value": "best rate"
+    },
+    {
+        "text": "tell your discount",
+        "start": 10,
+        "end": 18,
+        "value": "discount"
+    },
+    {
+        "text": "offer me maximum discount",
+        "start": 17,
+        "end": 25,
+        "value": "discount"
+    },
+    {
+        "text": "offer me maximum discount",
+        "start": 9,
+        "end": 25,
+        "value": "maximum discount"
+    },
+    {
+        "text": "propose us best price",
+        "start": 11,
+        "end": 21,
+        "value": "best price"
+    },
+    {
+        "text": "tell me final price",
+        "start": 8,
+        "end": 19,
+        "value": "final price"
+    },
+    {
+        "text": "can you get back on maximum discount",
+        "start": 28,
+        "end": 36,
+        "value": "discount"
+    },
+    {
+        "text": "can you get back on maximum discount",
+        "start": 20,
+        "end": 36,
+        "value": "maximum discount"
+    },
+    {
+        "text": "can you check and get back with last price",
+        "start": 32,
+        "end": 42,
+        "value": "last price"
+    },
+    {
+        "text": "what is your last price",
+        "start": 13,
+        "end": 23,
+        "value": "last price"
+    },
+    {
+        "text": "tell me best offer",
+        "start": 8,
+        "end": 18,
+        "value": "best offer"
+    },
+    {
+        "text": "tell me best price",
+        "start": 8,
+        "end": 18,
+        "value": "best price"
+    },
+    {
+        "text": "who can give me last price",
+        "start": 16,
+        "end": 26,
+        "value": "last price"
+    },
+    {
+        "text": "propose me best rate",
+        "start": 11,
+        "end": 20,
+        "value": "best rate"
+    },
+    {
+        "text": "who can give me best rate",
+        "start": 16,
+        "end": 25,
+        "value": "best rate"
+    },
+    {
+        "text": "make your final offer",
+        "start": 10,
+        "end": 21,
+        "value": "final offer"
+    },
+    {
+        "text": "how do I get best offer",
+        "start": 13,
+        "end": 23,
+        "value": "best offer"
+    },
+    {
+        "text": "how do I get discount",
+        "start": 13,
+        "end": 21,
+        "value": "discount"
+    },
+    {
+        "text": "can you check and get back with last rate",
+        "start": 32,
+        "end": 41,
+        "value": "last rate"
+    },
+    {
+        "text": "how do I get last price",
+        "start": 13,
+        "end": 23,
+        "value": "last price"
+    },
+    {
+        "text": "Is it discount",
+        "start": 6,
+        "end": 14,
+        "value": "discount"
+    },
+    {
+        "text": "offer us best prices",
+        "start": 9,
+        "end": 19,
+        "value": "best price"
+    },
+    {
+        "text": "offer us best prices",
+        "start": 9,
+        "end": 20,
+        "value": "best prices"
+    },
+    {
+        "text": "tell your last rate",
+        "start": 10,
+        "end": 19,
+        "value": "last rate"
+    },
+    {
+        "text": "propose us final offer",
+        "start": 11,
+        "end": 22,
+        "value": "final offer"
+    },
+    {
+        "text": "propose me maximum discount",
+        "start": 19,
+        "end": 27,
+        "value": "discount"
+    },
+    {
+        "text": "propose me maximum discount",
+        "start": 11,
+        "end": 27,
+        "value": "maximum discount"
+    },
+    {
+        "text": "who can give me final offer",
+        "start": 16,
+        "end": 27,
+        "value": "final offer"
+    },
+    {
+        "text": "Is it best prices",
+        "start": 6,
+        "end": 16,
+        "value": "best price"
+    },
+    {
+        "text": "Is it best prices",
+        "start": 6,
+        "end": 17,
+        "value": "best prices"
+    },
+    {
+        "text": "whom should I talk to for last rate",
+        "start": 26,
+        "end": 35,
+        "value": "last rate"
+    },
+    {
+        "text": "propose me last rate",
+        "start": 11,
+        "end": 20,
+        "value": "last rate"
+    },
+    {
+        "text": "tell me max discount",
+        "start": 12,
+        "end": 20,
+        "value": "discount"
+    },
+    {
+        "text": "tell me max discount",
+        "start": 8,
+        "end": 20,
+        "value": "max discount"
+    },
+    {
+        "text": "Is it best rate",
+        "start": 6,
+        "end": 15,
+        "value": "best rate"
+    },
+    {
+        "text": "let's talk max discount",
+        "start": 15,
+        "end": 23,
+        "value": "discount"
+    },
+    {
+        "text": "let's talk max discount",
+        "start": 11,
+        "end": 23,
+        "value": "max discount"
+    },
+    {
+        "text": "offer us final offer",
+        "start": 9,
+        "end": 20,
+        "value": "final offer"
+    },
+    {
+        "text": "Is it last rate",
+        "start": 6,
+        "end": 15,
+        "value": "last rate"
+    },
+    {
+        "text": "what is your best rate",
+        "start": 13,
+        "end": 22,
+        "value": "best rate"
+    },
+    {
+        "text": "offer us discount",
+        "start": 9,
+        "end": 17,
+        "value": "discount"
+    },
+    {
+        "text": "propose us best prices",
+        "start": 11,
+        "end": 21,
+        "value": "best price"
+    },
+    {
+        "text": "propose us best prices",
+        "start": 11,
+        "end": 22,
+        "value": "best prices"
+    },
+    {
+        "text": "propose us best offer",
+        "start": 11,
+        "end": 21,
+        "value": "best offer"
+    },
+    {
+        "text": "what is your best price",
+        "start": 13,
+        "end": 23,
+        "value": "best price"
+    },
+    {
+        "text": "offer us best offer",
+        "start": 9,
+        "end": 19,
+        "value": "best offer"
+    },
+    {
+        "text": "make your max discount",
+        "start": 14,
+        "end": 22,
+        "value": "discount"
+    },
+    {
+        "text": "make your max discount",
+        "start": 10,
+        "end": 22,
+        "value": "max discount"
+    },
+    {
+        "text": "can you get back on best rate",
+        "start": 20,
+        "end": 29,
+        "value": "best rate"
+    },
+    {
+        "text": "how do I get max discount",
+        "start": 17,
+        "end": 25,
+        "value": "discount"
+    },
+    {
+        "text": "how do I get max discount",
+        "start": 13,
+        "end": 25,
+        "value": "max discount"
+    },
+    {
+        "text": "can you get back on final offer",
+        "start": 20,
+        "end": 31,
+        "value": "final offer"
+    },
+    {
+        "text": "can you get back on best price",
+        "start": 20,
+        "end": 30,
+        "value": "best price"
+    },
+    {
+        "text": "propose me best offer",
+        "start": 11,
+        "end": 21,
+        "value": "best offer"
+    },
+    {
+        "text": "can you check and get back with final price",
+        "start": 32,
+        "end": 43,
+        "value": "final price"
+    },
+    {
+        "text": "how do I get best prices",
+        "start": 13,
+        "end": 23,
+        "value": "best price"
+    },
+    {
+        "text": "how do I get best prices",
+        "start": 13,
+        "end": 24,
+        "value": "best prices"
+    },
+    {
+        "text": "propose me best prices",
+        "start": 11,
+        "end": 21,
+        "value": "best price"
+    },
+    {
+        "text": "propose me best prices",
+        "start": 11,
+        "end": 22,
+        "value": "best prices"
+    },
+    {
+        "text": "Is it best offer",
+        "start": 6,
+        "end": 16,
+        "value": "best offer"
+    },
+    {
+        "text": "tell me last rate",
+        "start": 8,
+        "end": 17,
+        "value": "last rate"
+    },
+    {
+        "text": "propose us best rate",
+        "start": 11,
+        "end": 20,
+        "value": "best rate"
+    },
+    {
+        "text": "tell your best price",
+        "start": 10,
+        "end": 20,
+        "value": "best price"
+    },
+    {
+        "text": "let's talk best price",
+        "start": 11,
+        "end": 21,
+        "value": "best price"
+    },
+    {
+        "text": "what is your discount",
+        "start": 13,
+        "end": 21,
+        "value": "discount"
+    },
+    {
+        "text": "can you check and get back with max discount",
+        "start": 36,
+        "end": 44,
+        "value": "discount"
+    },
+    {
+        "text": "can you check and get back with max discount",
+        "start": 32,
+        "end": 44,
+        "value": "max discount"
+    },
+    {
+        "text": "what is maximum discount",
+        "start": 16,
+        "end": 24,
+        "value": "discount"
+    },
+    {
+        "text": "what is maximum discount",
+        "start": 8,
+        "end": 24,
+        "value": "maximum discount"
+    },
+    {
+        "text": "whom should I talk to for best offer",
+        "start": 26,
+        "end": 36,
+        "value": "best offer"
+    },
+    {
+        "text": "propose us final price",
+        "start": 11,
+        "end": 22,
+        "value": "final price"
+    },
+    {
+        "text": "can you ask your boss for best prices",
+        "start": 26,
+        "end": 36,
+        "value": "best price"
+    },
+    {
+        "text": "can you ask your boss for best prices",
+        "start": 26,
+        "end": 37,
+        "value": "best prices"
+    },
+    {
+        "text": "propose us max discount",
+        "start": 15,
+        "end": 23,
+        "value": "discount"
+    },
+    {
+        "text": "propose us max discount",
+        "start": 11,
+        "end": 23,
+        "value": "max discount"
+    },
+    {
+        "text": "can you get back on best prices",
+        "start": 20,
+        "end": 30,
+        "value": "best price"
+    },
+    {
+        "text": "can you get back on best prices",
+        "start": 20,
+        "end": 31,
+        "value": "best prices"
+    },
+    {
+        "text": "can you check and get back with best offer",
+        "start": 32,
+        "end": 42,
+        "value": "best offer"
+    },
+    {
+        "text": "make it best offer",
+        "start": 8,
+        "end": 18,
+        "value": "best offer"
+    },
+    {
+        "text": "can you ask your boss for maximum discount",
+        "start": 34,
+        "end": 42,
+        "value": "discount"
+    },
+    {
+        "text": "can you ask your boss for maximum discount",
+        "start": 26,
+        "end": 42,
+        "value": "maximum discount"
+    },
+    {
+        "text": "can you check and get back with best rate",
+        "start": 32,
+        "end": 41,
+        "value": "best rate"
+    },
+    {
+        "text": "propose me max discount",
+        "start": 15,
+        "end": 23,
+        "value": "discount"
+    },
+    {
+        "text": "propose me max discount",
+        "start": 11,
+        "end": 23,
+        "value": "max discount"
+    },
+    {
+        "text": "propose me final price",
+        "start": 11,
+        "end": 22,
+        "value": "final price"
+    },
+    {
+        "text": "offer me last price",
+        "start": 9,
+        "end": 19,
+        "value": "last price"
+    },
+    {
+        "text": "Is it final offer",
+        "start": 6,
+        "end": 17,
+        "value": "final offer"
+    },
+    {
+        "text": "offer us best price",
+        "start": 9,
+        "end": 19,
+        "value": "best price"
+    },
+    {
+        "text": "make it last price",
+        "start": 8,
+        "end": 18,
+        "value": "last price"
+    },
+    {
+        "text": "whom should I talk to for max discount",
+        "start": 30,
+        "end": 38,
+        "value": "discount"
+    },
+    {
+        "text": "whom should I talk to for max discount",
+        "start": 26,
+        "end": 38,
+        "value": "max discount"
+    },
+    {
+        "text": "what is best rate",
+        "start": 8,
+        "end": 17,
+        "value": "best rate"
+    },
+    {
+        "text": "how do I get last rate",
+        "start": 13,
+        "end": 22,
+        "value": "last rate"
+    },
+    {
+        "text": "who can give me discount",
+        "start": 16,
+        "end": 24,
+        "value": "discount"
+    },
+    {
+        "text": "who can give me best price",
+        "start": 16,
+        "end": 26,
+        "value": "best price"
+    },
+    {
+        "text": "whom should I talk to for best prices",
+        "start": 26,
+        "end": 36,
+        "value": "best price"
+    },
+    {
+        "text": "whom should I talk to for best prices",
+        "start": 26,
+        "end": 37,
+        "value": "best prices"
+    },
+    {
+        "text": "how do I get best rate",
+        "start": 13,
+        "end": 22,
+        "value": "best rate"
+    },
+    {
+        "text": "propose me best price",
+        "start": 11,
+        "end": 21,
+        "value": "best price"
+    },
+    {
+        "text": "make it discount",
+        "start": 8,
+        "end": 16,
+        "value": "discount"
+    },
+    {
+        "text": "can you check and get back with final offer",
+        "start": 32,
+        "end": 43,
+        "value": "final offer"
+    },
+    {
+        "text": "propose us last rate",
+        "start": 11,
+        "end": 20,
+        "value": "last rate"
+    },
+    {
+        "text": "offer me final price",
+        "start": 9,
+        "end": 20,
+        "value": "final price"
+    },
+    {
+        "text": "offer me best price",
+        "start": 9,
+        "end": 19,
+        "value": "best price"
+    },
+    {
+        "text": "tell me discount",
+        "start": 8,
+        "end": 16,
+        "value": "discount"
+    },
+    {
+        "text": "Is it maximum discount",
+        "start": 14,
+        "end": 22,
+        "value": "discount"
+    },
+    {
+        "text": "Is it maximum discount",
+        "start": 6,
+        "end": 22,
+        "value": "maximum discount"
+    },
+    {
+        "text": "let's talk last price",
+        "start": 11,
+        "end": 21,
+        "value": "last price"
+    },
+    {
+        "text": "can you check and get back with best prices",
+        "start": 32,
+        "end": 42,
+        "value": "best price"
+    },
+    {
+        "text": "can you check and get back with best prices",
+        "start": 32,
+        "end": 43,
+        "value": "best prices"
+    },
+    {
+        "text": "who can give me maximum discount",
+        "start": 24,
+        "end": 32,
+        "value": "discount"
+    },
+    {
+        "text": "who can give me maximum discount",
+        "start": 16,
+        "end": 32,
+        "value": "maximum discount"
+    },
+    {
+        "text": "can you ask your boss for final price",
+        "start": 26,
+        "end": 37,
+        "value": "final price"
+    },
+    {
+        "text": "whom should I talk to for discount",
+        "start": 26,
+        "end": 34,
+        "value": "discount"
+    },
+    {
+        "text": "whom should I talk to for maximum discount",
+        "start": 34,
+        "end": 42,
+        "value": "discount"
+    },
+    {
+        "text": "whom should I talk to for maximum discount",
+        "start": 26,
+        "end": 42,
+        "value": "maximum discount"
+    },
+    {
+        "text": "who can give me best offer",
+        "start": 16,
+        "end": 26,
+        "value": "best offer"
+    },
+    {
+        "text": "what is last rate",
+        "start": 8,
+        "end": 17,
+        "value": "last rate"
+    },
+    {
+        "text": "propose me discount",
+        "start": 11,
+        "end": 19,
+        "value": "discount"
+    },
+    {
+        "text": "whom should I talk to for final price",
+        "start": 26,
+        "end": 37,
+        "value": "final price"
+    },
+    {
+        "text": "can you ask your boss for best price",
+        "start": 26,
+        "end": 36,
+        "value": "best price"
+    },
+    {
+        "text": "what is your final offer",
+        "start": 13,
+        "end": 24,
+        "value": "final offer"
+    },
+    {
+        "text": "let's talk best rate",
+        "start": 11,
+        "end": 20,
+        "value": "best rate"
+    },
+    {
+        "text": "offer us last price",
+        "start": 9,
+        "end": 19,
+        "value": "last price"
+    },
+    {
+        "text": "can you ask your boss for discount",
+        "start": 26,
+        "end": 34,
+        "value": "discount"
+    },
+    {
+        "text": "propose us maximum discount",
+        "start": 19,
+        "end": 27,
+        "value": "discount"
+    },
+    {
+        "text": "propose us maximum discount",
+        "start": 11,
+        "end": 27,
+        "value": "maximum discount"
+    },
+    {
+        "text": "can you ask your boss for best rate",
+        "start": 26,
+        "end": 35,
+        "value": "best rate"
+    },
+    {
+        "text": "make it best prices",
+        "start": 8,
+        "end": 18,
+        "value": "best price"
+    },
+    {
+        "text": "make it best prices",
+        "start": 8,
+        "end": 19,
+        "value": "best prices"
+    },
+    {
+        "text": "let's talk best prices",
+        "start": 11,
+        "end": 21,
+        "value": "best price"
+    },
+    {
+        "text": "let's talk best prices",
+        "start": 11,
+        "end": 22,
+        "value": "best prices"
+    },
+    {
+        "text": "make it maximum discount",
+        "start": 16,
+        "end": 24,
+        "value": "discount"
+    },
+    {
+        "text": "make it maximum discount",
+        "start": 8,
+        "end": 24,
+        "value": "maximum discount"
+    },
+    {
+        "text": "offer me discount",
+        "start": 9,
+        "end": 17,
+        "value": "discount"
+    },
+    {
+        "text": "what is discount",
+        "start": 8,
+        "end": 16,
+        "value": "discount"
+    },
+    {
+        "text": "what is final offer",
+        "start": 8,
+        "end": 19,
+        "value": "final offer"
+    },
+    {
+        "text": "offer me last rate",
+        "start": 9,
+        "end": 18,
+        "value": "last rate"
+    },
+    {
+        "text": "make your maximum discount",
+        "start": 18,
+        "end": 26,
+        "value": "discount"
+    },
+    {
+        "text": "make your maximum discount",
+        "start": 10,
+        "end": 26,
+        "value": "maximum discount"
+    },
+    {
+        "text": "make your last price",
+        "start": 10,
+        "end": 20,
+        "value": "last price"
+    },
+    {
+        "text": "can you ask your boss for max discount",
+        "start": 30,
+        "end": 38,
+        "value": "discount"
+    },
+    {
+        "text": "can you ask your boss for max discount",
+        "start": 26,
+        "end": 38,
+        "value": "max discount"
+    },
+    {
+        "text": "how do I get final offer",
+        "start": 13,
+        "end": 24,
+        "value": "final offer"
+    },
+    {
+        "text": "offer us best rate",
+        "start": 9,
+        "end": 18,
+        "value": "best rate"
+    },
+    {
+        "text": "what is max discount",
+        "start": 12,
+        "end": 20,
+        "value": "discount"
+    },
+    {
+        "text": "what is max discount",
+        "start": 8,
+        "end": 20,
+        "value": "max discount"
+    },
+    {
+        "text": "what is your maximum discount",
+        "start": 21,
+        "end": 29,
+        "value": "discount"
+    },
+    {
+        "text": "what is your maximum discount",
+        "start": 13,
+        "end": 29,
+        "value": "maximum discount"
+    },
+    {
+        "text": "can you get back on last price",
+        "start": 20,
+        "end": 30,
+        "value": "last price"
+    },
+    {
+        "text": "whom should I talk to for best price",
+        "start": 26,
+        "end": 36,
+        "value": "best price"
+    },
+    {
+        "text": "can you get back on best offer",
+        "start": 20,
+        "end": 30,
+        "value": "best offer"
+    },
+    {
+        "text": "let's talk final offer",
+        "start": 11,
+        "end": 22,
+        "value": "final offer"
+    },
+    {
+        "text": "tell your final price",
+        "start": 10,
+        "end": 21,
+        "value": "final price"
+    }
+]
